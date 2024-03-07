@@ -1,0 +1,46 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.blank{
+    flex: 1;
+}
+#menu{
+    width: 16px;
+}
+#line1{
+    background-color: red;
+    padding: 10px;
+    color: white;
+}
+h1{
+    margin: 0;
+}
+#line2{
+    align-items: center;
+}
+.line3{
+    align-items: center;
+}
+.fieldName{
+    width: 130px;
+}
+.fieldtext{
+    width: 220px;
+    height: 20px;
+}
+.red{
+    color:red;
+}
+.eye{
+    width: 15px;
+}
+.frame{
+    width: 15px;
+    background-color: gray;
+    height: 30px;
+}
